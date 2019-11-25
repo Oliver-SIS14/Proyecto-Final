@@ -4,7 +4,7 @@
 Esta es una pequeña guia de uso para el proyecto presente basado en el sistema de ventas de Ferreteria Nelson, la cual servira para utilizar dicho sistema sin ningun inconveniente
 
 # Login
-![LoginRM](https://user-images.githubusercontent.com/54710498/69558770-33a5f980-0f7f-11ea-800a-127863ee3bdd.PNG)
+![LoginRM](https://user-images.githubusercontent.com/54710498/69567077-f5183b00-0f8e-11ea-8054-90fd7be00964.PNG)
 
 Este es el formulario principal, cuya funcion es iniciar la seccion del usuario que entrara al programa para utilizarlo, si no hay usuarios registrado siempre habra un usuario por defecto cuyo nombre sera *Admin* y la contraseña sera 1234
 
