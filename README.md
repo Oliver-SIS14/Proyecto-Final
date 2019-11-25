@@ -38,10 +38,19 @@ En el registro de articulos se podran agregar articulos al inventario, llenando 
 
 Cada registro tendra su correspondiente consulta para visualizar los elementos que estan registrados en la base de datos, especificando o filtrando los criterios o mostrando todo
 
+# Requisitos
+
+·Procesador 1.6 GHz o Mas
+
+·RAM 4GB
+
+·Espacio En disco 250GB
+
 # Construido con
 
-*Visual Studio C# 2019*,
-*SQL Server 2012*
+·*Visual Studio C# 2019*
+
+.*SQL Server 2012*
 
 # Autor
 ----------------------------
